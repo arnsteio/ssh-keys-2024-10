@@ -1,4 +1,4 @@
-# SSH key miniworkshop, MET Norway, 2023-11-20
+# SSH key miniworkshop, MET Norway, 2024-10-07
 ---
 Workshop name: SSH keys
 
